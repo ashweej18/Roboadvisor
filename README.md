@@ -40,7 +40,7 @@ To create a robo advisor that recommends user investment portfolio recommendatio
 2. Test Cases
     * [correct_dialog.txt](Test_Cases/correct_dialog.txt)
     * [age_error.txt](Test_Cases/age_error.txt)
-    * [incorrect_amount.txt](Test_Cases/incorrect_amount_error.txt)
+    * [incorrect_amount.txt](Test_Casess/incorrect_amount.txt)
     * [negative_age_error.txt](Test_Cases/negative_age_error.txt)
 3. Custom Slot - [risk level](riskLevel_2_c3e67815-b93d-478a-98e2-f45e268f3323_SlotType_LEX_V1.zip)
 4. Intent - [RecommendPortfolio](RecommendPortfolio_13_75fe0361-ce73-4050-a262-b6a0cec628aa_Intent_LEX_V1.zip)
