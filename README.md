@@ -66,7 +66,7 @@ To create a robo advisor that recommends user investment portfolio recommendatio
 
 ### **Video Recording**
 
-![](Outputs/roboadvisormp4.mp4)
+[Video](Outputs/roboadvisormp4.mp4)
 
 <video width="320" height="240" controls>
   <source src="Outputs/roboadvisormp4.mp4" type="video/mp4">
