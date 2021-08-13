@@ -68,6 +68,6 @@ To create a robo advisor that recommends user investment portfolio recommendatio
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="Outputs/roboadvisor.png">
-    <source src="Output/roboadvisor_video.mov" type="video/mp4">
+    <source src="Outputs/roboadvisor_video.mov" type="video/mp4">
   </video>
 </figure>
